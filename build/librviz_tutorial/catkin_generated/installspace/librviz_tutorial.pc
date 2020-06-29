@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/install
+
+Name: librviz_tutorial
+Description: Description of librviz_tutorial
+Version: 0.10.3
+Cflags: 
+Libs: -L/home/xu/dogkin_ws/install/lib 
+Requires: 

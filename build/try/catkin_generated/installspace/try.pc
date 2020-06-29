@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/install
+
+Name: try
+Description: Description of try
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs

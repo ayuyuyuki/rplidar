@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/src/test3/obj-x86_64-linux-gnu/devel
+
+Name: test3
+Description: Description of test3
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: gaitech_edu
+Description: Description of gaitech_edu
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

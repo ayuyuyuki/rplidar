@@ -1,0 +1,9 @@
+-I/home/xu/dogkin_ws/src/test3
+-I/home/xu/dogkin_ws/build/test3
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="test3"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/xu/dogkin_ws/build/test3/obj-x86_64-linux-gnu/moc_ui_main_window.cpp
+/home/xu/dogkin_ws/src/test3/obj-x86_64-linux-gnu/ui_main_window.h

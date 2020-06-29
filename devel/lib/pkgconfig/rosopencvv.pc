@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: rosopencvv
+Description: Description of rosopencvv
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/xu/dogkin_ws/devel/lib 
+Requires: 

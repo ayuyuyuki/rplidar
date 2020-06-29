@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/install
+
+Name: try_double
+Description: Description of try_double
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xu/dogkin_ws/install/lib 
+Requires: roscpp std_msgs sensor_msgs

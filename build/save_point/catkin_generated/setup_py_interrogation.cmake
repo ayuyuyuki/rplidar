@@ -1,0 +1,6 @@
+set(save_point_SETUP_PY_VERSION "0.1.0")
+set(save_point_SETUP_PY_SCRIPTS "scripts/save_points.py")
+set(save_point_SETUP_PY_PACKAGES "save_point")
+set(save_point_SETUP_PY_PACKAGE_DIRS "scripts/save_point")
+set(save_point_SETUP_PY_MODULES "")
+set(save_point_SETUP_PY_MODULE_DIRS "")

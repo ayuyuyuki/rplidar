@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: test3
+Description: Description of test3
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

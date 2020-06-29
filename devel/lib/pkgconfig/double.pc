@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: double
+Description: Description of double
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs

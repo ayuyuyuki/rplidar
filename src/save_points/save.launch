@@ -1,0 +1,4 @@
+<launch>
+<machine name="FriendlyELEC" address="192.168.0.112" user="pi" password="pi" env-loader="/home/pi/dogkin_ws/devel/uvc_env.sh"/>
+    <node machine="FriendlyELEC" pkg="save_points" name="save_point" type="save_points" required="true" output="screen"/>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: stereo_vision
+Description: Description of stereo_vision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

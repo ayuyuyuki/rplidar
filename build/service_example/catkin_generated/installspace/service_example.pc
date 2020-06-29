@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/install
+
+Name: service_example
+Description: Description of service_example
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

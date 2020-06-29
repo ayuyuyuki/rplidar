@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: chessbot
+Description: Description of chessbot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xu/dogkin_ws/devel/lib 
+Requires: 

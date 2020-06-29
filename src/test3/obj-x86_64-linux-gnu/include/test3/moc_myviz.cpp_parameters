@@ -1,0 +1,8 @@
+-I/home/xu/dogkin_ws/src/test3
+-I/home/xu/dogkin_ws/src/test3/obj-x86_64-linux-gnu
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="test3"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/xu/dogkin_ws/src/test3/obj-x86_64-linux-gnu/include/test3/moc_myviz.cpp
+/home/xu/dogkin_ws/src/test3/include/test3/myviz.h

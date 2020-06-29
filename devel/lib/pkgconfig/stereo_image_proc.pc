@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: stereo_image_proc
+Description: Description of stereo_image_proc
+Version: 1.13.0
+Cflags: -I/home/xu/dogkin_ws/devel/include -I/home/xu/dogkin_ws/src/image_pipeline-melodic/stereo_image_proc/include
+Libs: -L${prefix}/lib -lstereo_image_proc
+Requires: image_geometry image_proc sensor_msgs stereo_msgs

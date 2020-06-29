@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/Camera.png</file>
+        <file>images/DepthCloud.png</file>
+        <file>images/display.png</file>
+        <file>images/Displays.svg</file>
+        <file>images/png.png</file>
+        <file>images/visibility.svg</file>
+        <file>images/power-v.png</file>
+        <file>images/power.png</file>
+        <file>images/package.png</file>
+        <file>images/PointCloud.png</file>
+        <file>images/plus.png</file>
+        <file>images/online.png</file>
+        <file>images/Image.png</file>
+        <file>images/robot.png</file>
+        <file>images/options.png</file>
+        <file>images/Grid.png</file>
+        <file>images/ok.png</file>
+    </qresource>
+</RCC>

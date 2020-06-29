@@ -1,0 +1,6 @@
+29b28c991520ff9670d344b7b5dd0d79  opt/ros/kinetic/lib/pkgconfig/test3.pc
+a1179a642c2314ae8845ea14093a526c  opt/ros/kinetic/lib/test3/test3
+e9aaaefee7f495e7e18ba62a1cf93613  opt/ros/kinetic/share/test3/cmake/test3Config-version.cmake
+1004c1eda5e18b880990986b167c8bab  opt/ros/kinetic/share/test3/cmake/test3Config.cmake
+8b38a18a7d2230b2f7769f3d7fab22a0  opt/ros/kinetic/share/test3/package.xml
+d8795fba79fa907988a28e9947244601  usr/share/doc/ros-kinetic-test3/changelog.Debian.gz

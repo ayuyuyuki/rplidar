@@ -1,0 +1,9 @@
+<launch>
+<machine name="FriendlyELEC" address="192.168.1.115" user="pi" password="pi" env-loader="/home/pi/dogkin_ws/devel/uvc_env.sh"/>
+        <node machine="FriendlyELEC"  name="find_target_in_images_node" pkg="stereo_vision" type="cal_target_3Dposition" required="true" output="screen">
+	</node>
+
+        <node machine="FriendlyELEC" name="cal_target_3Dposition_node" pkg="stereo_vision" type="cal_target3D_second">
+	</node>
+	
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: hight_read
+Description: Description of hight_read
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs roscpp serial

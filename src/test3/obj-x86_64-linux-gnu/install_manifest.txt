@@ -1,0 +1,5 @@
+/opt/ros/kinetic/lib/pkgconfig/test3.pc
+/opt/ros/kinetic/share/test3/cmake/test3Config.cmake
+/opt/ros/kinetic/share/test3/cmake/test3Config-version.cmake
+/opt/ros/kinetic/share/test3/package.xml
+/opt/ros/kinetic/lib/test3/test3

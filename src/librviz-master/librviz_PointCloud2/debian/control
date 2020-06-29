@@ -1,0 +1,12 @@
+Source: ros-kinetic-test
+Section: misc
+Priority: optional
+Maintainer: luolun <luolun@todo.todo>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-rviz
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-test
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-roscpp, ros-kinetic-rospy, ros-kinetic-rviz
+Description: The test package

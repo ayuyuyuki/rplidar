@@ -1,0 +1,8 @@
+prefix=/home/xu/dogkin_ws/devel
+
+Name: usb_cam2
+Description: Description of usb_cam2
+Version: 0.3.6
+Cflags: -I/home/xu/dogkin_ws/src/usb_cam/include
+Libs: -L${prefix}/lib -lusb_cam2
+Requires: 

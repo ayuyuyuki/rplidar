@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="double" name="find_target_double" type="find_target_double"  required="true" output="screen"/>
+    <node pkg="double" name="find_second" type="find_second">
+  </node>
+    <node pkg="double" name="movement" type="movement">
+  </node>
+</launch>
